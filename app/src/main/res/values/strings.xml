@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sortowanie</string>
+    <string name="posortuj_text">Posortuj</string>
+    <string name="wpisz_ciag_do_posortowania_hint">Ciag do posortowania</string>
+    <string name="wpisz_liczby">Wpisz liczby!</string>
+    <string name="naglowek">Sortowanie szybkie</string>
+    <string name="opis">Sortowanie szybkie jest efektywnym algorytmem działającym
+        na zasadzie &quot;dziel i rzadz&quot;. Wybiera punkt podzialu i nastepnie przestawia
+        elementy tak, aby wieksze byly po jednej stronie a mniejsze po drugiej.
+        Nastepnie rekurencyjnie sortuje powstale podlisty.</string>
+    <string name="no_value_string">Brak wpisanego ciagu!</string>
+</resources>
